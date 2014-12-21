@@ -1,0 +1,6 @@
+c:\users\aribilgi\documents\visual studio 2012\Projects\InterfaceSeysi\InterfaceSeysi\bin\Debug\InterfaceSeysi.exe.config
+c:\users\aribilgi\documents\visual studio 2012\Projects\InterfaceSeysi\InterfaceSeysi\obj\Debug\InterfaceSeysi.csprojResolveAssemblyReference.cache
+c:\users\aribilgi\documents\visual studio 2012\Projects\InterfaceSeysi\InterfaceSeysi\bin\Debug\InterfaceSeysi.exe
+c:\users\aribilgi\documents\visual studio 2012\Projects\InterfaceSeysi\InterfaceSeysi\bin\Debug\InterfaceSeysi.pdb
+c:\users\aribilgi\documents\visual studio 2012\Projects\InterfaceSeysi\InterfaceSeysi\obj\Debug\InterfaceSeysi.exe
+c:\users\aribilgi\documents\visual studio 2012\Projects\InterfaceSeysi\InterfaceSeysi\obj\Debug\InterfaceSeysi.pdb
